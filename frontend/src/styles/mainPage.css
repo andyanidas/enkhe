@@ -1,0 +1,16 @@
+.main {
+  background-image: url("/public/mainPic.jpeg") !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.walletInfo {
+  background-color: rgba(0, 0, 0, 0.594);
+  text-align: left;
+  width: 400px;
+  margin: auto;
+  padding: 50px;
+  border-radius: 30px;
+}
